@@ -44,8 +44,7 @@
 <pre><code>colcon build</code></pre>
 
 <h3>Test the Package</h3>
-![image](https://github.com/oscarpoudel/get_calibrate_camera/blob/main/images/sample_image.png)
-![image](https://github.com/pratikPhadte/my_camera/assets/55589461/8ea8d5b6-e6e3-45c3-9752-37875b23f5a0)
+<img src="https://github.com/oscarpoudel/get_calibrate_camera/blob/main/images/sample_image.png">
 <h2>Maintainer</h2>
 <p><strong>Oscar Poudel</strong><br>
 <a href="mailto:opoudel27@gmail.com">opoudel27@gmail.com</a></p>
