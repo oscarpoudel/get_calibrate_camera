@@ -49,9 +49,6 @@
 <p><strong>Oscar Poudel</strong><br>
 <a href="mailto:opoudel27@gmail.com">opoudel27@gmail.com</a></p>
 
-<h2>License</h2>
-<p>This package is licensed under <strong>[TODO: Specify License]</strong>.</p>
-
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please follow the standard GitHub workflow:</p>
 <ol>
